@@ -12,9 +12,9 @@ const skills = {
     }, 
     back-end : {
         languages : ["Node.js", "Python", "SQL"],
-        frameworks-libraries : ["Flask", "Express"] 
+        frameworks : ["Flask", "Express"] 
     }, 
-    testing : ["Jasmine", "Jest", "@testing-library/react"],
+    testing : ["Jasmine", "Jest", "@testing-library/react", "unittest"],
     database : ["PostgreSQL"]
 };
 ```
