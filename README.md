@@ -38,6 +38,9 @@ const skills = {
     <a href="https://stackoverflow.com/users/13714887" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13714887" height="20" width="20" />
     </a>
+    <a href="https://open.spotify.com/artist/61MnpadJtHfqjv1diIAL2t?si=QS1JpFwuRPe-RpFdGWDBZA" target="_blank">
+        <img align="center" src="https://i.pinimg.com/originals/7a/ec/a5/7aeca525afa2209807c15da821b2f2c6.png" alt="Dru Serkes on spotify" height="20" width="20" />
+    </a>
 </p>
 
 
