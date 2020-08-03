@@ -7,7 +7,7 @@
 ```
 const skills = {
     front-end : {
-        languages : ["HTML", "CSS", "JavaScript"]
+        languages : ["HTML", "CSS", "JavaScript"],
         frameworks : ["React", "Redux", "Bootstrap", "jQuery"]
     }, 
     back-end : {
