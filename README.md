@@ -8,7 +8,7 @@
 const skills = {
     front-end : {
         languages : ["HTML", "CSS", "JavaScript"],
-        frameworks : ["React", "Redux", "Bootstrap", "jQuery"]
+        frameworks : ["React", "Redux", "Bootstrap", "jQuery", "Material UI"]
     }, 
     back-end : {
         languages : ["Node.js", "Python", "SQL"],
@@ -20,7 +20,7 @@ const skills = {
 ```
 
 - 🔭 I am: **Open to opportunities**
-- 🌱 Currently learning: **React/Redux**
+- 🌱 Currently learning: **TypeScript**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **3x fantasy football champion**
 
