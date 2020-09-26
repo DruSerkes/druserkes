@@ -2,12 +2,12 @@
 
 ##### @DruSerkes
 
-###### Software Engineer || Songwriter
+###### **Software Engineer**
 
 ```
 const skills = {
     front-end : {
-        languages : ["HTML", "CSS", "JavaScript"],
+        languages : ["HTML", "CSS", "JavaScript", "TypeScript"],
         frameworks : ["React", "Redux", "Bootstrap", "jQuery", "Material UI"]
     }, 
     back-end : {
