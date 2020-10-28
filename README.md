@@ -20,7 +20,7 @@ const skills = {
 ```
 
 - 🔭 I am: **Open to opportunities**
-- 🌱 Currently learning: **TypeScript**
+- 🌱 Currently learning: **AWS**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **3x fantasy football champion**
 
