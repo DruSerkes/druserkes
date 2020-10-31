@@ -274,6 +274,10 @@ i {
 	font-style: italic;
 }
 
+small {
+	font-size: 0.9rem;
+}
+
 a {
 	text-decoration: none;
 	color: inherit;
