@@ -21,8 +21,11 @@ const skills = {
 
 - 🔭 I am: A **Jr Engineer** at **[Zephyrx](https://www.zephyrx.com)**
 - 🌱 Currently learning: **[React Bootstrap](https://www.npmjs.com/package/react-bootstrap)**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **3x fantasy football champion**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun facts: 
+    - 🎭 **Former Broadway Performer** 
+    - 🎶 **Songwriter**
+    - 🏈 **3x Fantasy Football Champion**
 
 <small>*Lets connect*</small>
 <p align="left">
