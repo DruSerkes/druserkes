@@ -20,7 +20,7 @@ const skills = {
 ```
 
 - 🔭 I am: A **Jr Engineer** at **[Zephyrx](https://www.zephyrx.com)**
-- 🌱 Currently learning: **[React Bootstrap](https://www.npmjs.com/package/react-bootstrap)**
+- 🌱 Currently learning: **[Selenium](https://www.selenium.dev/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
