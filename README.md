@@ -12,19 +12,19 @@ const skills = {
     }, 
     back-end : {
         languages : ["Node.js", "Python", "SQL"],
-        frameworks : ["Flask", "Express"] 
+        frameworks : ["Express", "Flask"] 
     }, 
-    testing : ["Jasmine", "Jest", "@testing-library/react", "unittest"],
+    testing : ["Jest", "@testing-library/react", "Selenium", "unittest", "Jasmine"],
     database : ["PostgreSQL"]
 };
 ```
 
-- 🔭 I am: A **Jr Engineer** at **[Zephyrx](https://www.zephyrx.com)**
+- 🔭 I am: An **Associate Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
 - 🌱 Currently learning: **[Selenium](https://www.selenium.dev/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
-    - 🎶 **Songwriter**
+    - 🎶 [**Songwriter**](https://open.spotify.com/artist/61MnpadJtHfqjv1diIAL2t?si=QS1JpFwuRPe-RpFdGWDBZA)
     - 🏈 **3x Fantasy Football Champion**
 
 <small>*Lets connect*</small>
