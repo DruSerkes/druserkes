@@ -20,7 +20,7 @@ const skills = {
 ```
 
 - 🔭 I am: An **Associate Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
-- 🌱 Currently learning: **[Selenium](https://www.selenium.dev/)**
+- 🌱 Currently learning: **[Serverless with AWS Lambda](https://aws.amazon.com/lambda/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
