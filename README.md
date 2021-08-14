@@ -15,12 +15,12 @@ const skills = {
         frameworks : ["Express", "Flask"] 
     }, 
     testing : ["Jest", "@testing-library/react", "Selenium", "unittest", "Jasmine"],
-    database : ["PostgreSQL"]
+    database : ["PostgreSQL", "DynamoDB"]
 };
 ```
 
 - 🔭 I am: An **Associate Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
-- 🌱 Currently learning: **[Serverless with AWS Lambda](https://aws.amazon.com/lambda/)**
+- 🌱 Currently learning: **[Svelte](https://svelte.dev/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
