@@ -20,7 +20,7 @@ const skills = {
 ```
 
 - 🔭 I am: An **Associate Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
-- 🌱 Currently learning: **[Svelte](https://svelte.dev/)**
+- 🌱 Currently learning: **[React-Native](https://reactnative.dev/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
