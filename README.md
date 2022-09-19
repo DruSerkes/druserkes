@@ -14,13 +14,12 @@ const skills = {
         languages : ["Node.js", "Python", "SQL"],
         frameworks : ["Express", "Flask"] 
     }, 
-    testing : ["Jest", "@testing-library/react", "Selenium", "unittest", "Jasmine"],
+    testing : ["Jest", "@testing-library/react", "Selenium", "unittest"],
     database : ["PostgreSQL", "DynamoDB"]
 };
 ```
 
 - 🔭 I am: A **Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
-- 🌱 Currently learning: **[React-Native](https://reactnative.dev/)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🌱 Currently learning: **[React-Native](https://reactnative.dev/)**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
