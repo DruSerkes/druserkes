@@ -23,6 +23,7 @@ const skills = {
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
+    - 🌱 Currently learning: **[Go](https://go.dev/)**
     - 🎶 [**Songwriter**](https://open.spotify.com/artist/61MnpadJtHfqjv1diIAL2t?si=QS1JpFwuRPe-RpFdGWDBZA)
     - 🏈 **3x Fantasy Football Champion**
 
@@ -53,7 +54,6 @@ const skills = {
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 🌱 Currently learning: **[React-Native](https://reactnative.dev/)**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
