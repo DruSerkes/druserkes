@@ -23,9 +23,9 @@ const skills = {
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
-<!--     - 🌱 Currently learning: **[Go](https://go.dev/)** -->
     - 🎶 [**Songwriter**](https://open.spotify.com/artist/61MnpadJtHfqjv1diIAL2t?si=QS1JpFwuRPe-RpFdGWDBZA)
     - 🏈 **3x Fantasy Football Champion**
+
 
 <small>*Lets connect*</small>
 <p align="left">
