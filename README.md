@@ -21,7 +21,7 @@ const skills = {
 
 - 🔭 I am: A **Software Engineer** at **[Zephyrx](https://www.zephyrx.com)**
 - 😄 Pronouns: **He/Him**
-- 🌱 Currently learning: **[Redux Toolkit](https://redux-toolkit.js.org/)**
+- 🌱 Currently learning: **[MongoDB](https://mongodb.com/)**
 - ⚡ Fun facts: 
     - 🎭 **Former Broadway Performer** 
     - 🎶 [**Songwriter**](https://open.spotify.com/artist/61MnpadJtHfqjv1diIAL2t?si=QS1JpFwuRPe-RpFdGWDBZA)
