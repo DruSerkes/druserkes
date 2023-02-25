@@ -2387,10 +2387,52 @@ button:active,
   background-color: #e8edec;
 }
 
+#main>section.five {
+  background-color: #d6dddc;
+}
+
 #main li {
   list-style-type: circle;
   list-style-position: inside;
 }
+
+#stack .card-container,
+#stack .card,
+#stack .card-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-grow: 1;
+}
+
+#stack .card-container {
+  flex-wrap: wrap;
+}
+
+#stack .card {
+  border-radius: 8px;
+  box-shadow: rgba(128, 128, 128, 0.5) -4px 19px 45px;
+  flex-direction: column;
+  padding-top: 16px;
+  margin: 16px 24px;
+  max-width: 350px;
+}
+
+#stack .card-content {
+  padding: 16px 16px 0;
+  flex-wrap: wrap;
+}
+
+#stack .content-item {
+  text-align: center;
+  min-width: 91px;
+}
+
+#stack .content-item>img {
+  height: 50px;
+  width: auto;
+}
+
 
 /* Wide */
 
