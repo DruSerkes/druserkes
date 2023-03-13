@@ -8,14 +8,14 @@
 const skills = {
     front-end : {
         languages : ["HTML", "CSS", "JavaScript", "TypeScript"],
-        frameworks : ["React", "Redux", "Bootstrap", "jQuery", "Material UI"]
+        tools : ["React", "NextJS", "Redux", "Recoil", "Bootstrap", "Tailwind", "jQuery", "Material UI"]
     }, 
     back-end : {
         languages : ["Node.js", "Python", "SQL"],
-        frameworks : ["Express", "Flask"] 
+        tools : ["Express", "Flask"]
     }, 
     testing : ["Jest", "@testing-library/react", "Selenium", "unittest"],
-    database : ["PostgreSQL", "DynamoDB"]
+    database : ["PostgreSQL", "DynamoDB", "MongoDB"]
 };
 ```
 
