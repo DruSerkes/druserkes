@@ -12,7 +12,7 @@ const skills = {
     }, 
     back-end : {
         languages : ["Node.js", "Python", "SQL"],
-        tools : ["Express", "Flask"]
+        tools : ["Express", "Flask", "GraphQL"]
     }, 
     testing : ["Jest", "@testing-library/react", "Selenium", "unittest"],
     database : ["PostgreSQL", "DynamoDB", "MongoDB"]
